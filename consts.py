@@ -35,3 +35,11 @@ dict_class_map = {
     "precedence":"not supported"
 }
 
+
+dict_policy_map = {
+    "pop":"not supported",
+    "push":"not supported",
+    "where":"not supported",
+    "coop-s-default":"not supported",
+    "police":"not supported"
+}
